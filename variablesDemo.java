@@ -4,7 +4,7 @@ public class variablesDemo{
         char grade ='A';
         float cgpa=7.4f;
         double percentage =92.60;
-        int rollno = 24; 
+        // int rollno = 24; 
         boolean automation = true; 
 
         System.out.println("Name: "+name);
